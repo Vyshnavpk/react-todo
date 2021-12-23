@@ -1,3 +1,10 @@
+
+# React Todo App
+
+This is a sample react todo app. This app was a part of my react workshop.
+
+To Check the app, live link is here : https://vyshnavpk.github.io/react-todo/ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
